@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is John!
 
-Currently working on passion projects over the weekends. My time is spent learning the ins and outs of various technologies including Django, GraphQL, and React. With that said, I'd be interested in collaborating on open source projects, anything plant-related, or learning opportunities. 
+Currently working as a fledgling software engineer at Minted. My time is spent learning the ins and outs of various technologies including Django, React, and Redux. 
 
 - 💬 Ask me about native plants, coding, or music. 
 - 😄 Pronouns: he/him
